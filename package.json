@@ -6,5 +6,9 @@
     "type": "git",
     "url": "https://github.com/gbaldock/workflows.git"
   },
-  "author": "Gayle Baldock"
+  "author": "Gayle Baldock",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
 }
